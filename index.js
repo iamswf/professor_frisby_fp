@@ -1,6 +1,6 @@
 /**
  * @file main
- * @author Sun Wenfei(sunwenfei@baidu.com)
+ * @author iamswf@163.com
  */
 
 const Task = require('data.task');

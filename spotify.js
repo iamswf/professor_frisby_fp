@@ -1,6 +1,6 @@
 /**
  * @file request api
- * @author Sun Wenfei(sunwenfei@baidu.com)
+ * @author iamswf@163.com
  */
 
 const request = require('request');

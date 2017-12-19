@@ -1,6 +1,6 @@
 /**
  * @file monoid
- * @author Sun Wenfei(sunwenfei@baidu.com)
+ * @author iamswf@163.com
  */
 
 const Pair = (x, y) => ({
